@@ -1,0 +1,4 @@
+aitextgen/
+input.txt
+db.json
+trained_model/
